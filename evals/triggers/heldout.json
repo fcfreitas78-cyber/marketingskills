@@ -851,6 +851,22 @@
       "prompt": "Help produce a product demo video with Remotion using our actual UI captures. Start with a storyboard, then specify timing, transitions, voiceover and export settings for the website."
     },
     {
+      "id": "vsl-master-pro-h1",
+      "kind": "direct",
+      "expect": [
+        "vsl-master-pro"
+      ],
+      "prompt": "Turn this product into a finished sales video: a posture corrector, $39, for remote workers with back pain. I want the scene-by-scene script with image prompts, narration, captions, and a square version for the feed."
+    },
+    {
+      "id": "vsl-master-pro-h2",
+      "kind": "indirect",
+      "expect": [
+        "vsl-master-pro"
+      ],
+      "prompt": "Quero uma VSL estilo documentário de 5 minutos para meu serviço de consultoria financeira, com três ganchos diferentes para testar e a tela final com CTA."
+    },
+    {
       "id": "none-h1",
       "kind": "none",
       "expect": [],
