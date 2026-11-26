@@ -57,8 +57,13 @@ Current versions of all skills. Agents can compare against local versions to che
 | sms | 1.1.4 | 2026-11-19 |
 | social | 2.6.0 | 2026-11-19 |
 | video | 2.4.7 | 2026-11-19 |
+| vsl-master-pro | 1.0.0 | 2026-11-26 |
 
 ## Recent Changes
+
+### 2.15.0 (2026-11-26)
+
+- **vsl-master-pro** (new, 1.0.0): end-to-end sales video (VSL) production in Portuguese or any language: briefing, strategy, copy, scene-by-scene cinematic script, AI images and video, voiceover, captions, edit, and 9:16, 16:9, and 1:1 exports, with three hooks, two stories, two CTAs, and length variants to test. It checks which tools are connected before producing, never claims a tool ran when it didn't, and never invents testimonials or conversion results. References: `vsl-frameworks.md` (awareness levels, structures by length, hook and CTA formulas) and `production-pipeline.md` (FFmpeg Ken Burns, concat, ducking, burned captions, per-platform export, finishing checklist).
 
 ### 2.14.25 (2026-11-19)
 

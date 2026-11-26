@@ -129,6 +129,7 @@ See each skill's **Related Skills** section for the full dependency map.
 | [sms](skills/sms/) | When the user wants SMS, MMS, or WhatsApp marketing, or asks whether texting is worth it or a message is allowed:... |
 | [social](skills/social/) | When the user wants organic social content for LinkedIn, X, Instagram, TikTok, or Facebook, or asks what to post, which... |
 | [video](skills/video/) | When the user wants to create video with AI tools or code, or asks which approach to use (screen recording, AI avatar,... |
+| [vsl-master-pro](skills/vsl-master-pro/) | When the user wants a complete sales video (VSL) produced end to end, from briefing and copy to scene script, AI images... |
 <!-- SKILLS:END -->
 
 ## Installation
