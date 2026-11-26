@@ -1276,6 +1276,30 @@
       "prompt": "Render a product launch video in code with Remotion from our screenshots."
     },
     {
+      "id": "vsl-master-pro-1",
+      "kind": "direct",
+      "expect": [
+        "vsl-master-pro"
+      ],
+      "prompt": "Produce a complete VSL for our online course: script, AI visuals, voiceover, captions, and final exports in 9:16 and 16:9."
+    },
+    {
+      "id": "vsl-master-pro-2",
+      "kind": "indirect",
+      "expect": [
+        "vsl-master-pro"
+      ],
+      "prompt": "Preciso de um vídeo de vendas pronto para a página do meu curso de confeitaria (R$ 297, garantia de 7 dias). Faça o roteiro, a narração e o vídeo final."
+    },
+    {
+      "id": "vsl-master-pro-3",
+      "kind": "near-miss",
+      "expect": [
+        "vsl-master-pro"
+      ],
+      "prompt": "Our sales page converts poorly and I think we need a long-form video sales letter. Which VSL style and length should we use, and which hooks should we test?"
+    },
+    {
       "id": "none-1",
       "kind": "none",
       "expect": [],
